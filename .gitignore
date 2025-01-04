@@ -1,4 +1,5 @@
 lib/firebase_options.dart
+android/
 
 # Miscellaneous
 *.class
